@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherAppv2</string>
+    <string name="enter_city_name">enter city name</string>
+    <string name="get_weather">get weather</string>
+    <string name="enter_start_day">enter start day</string>
+    <string name="enter_end_day">enter end day</string>
+    <string name="_2020">2020</string>
+</resources>
